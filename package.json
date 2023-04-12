@@ -1,0 +1,15 @@
+{
+  "name": "datory",
+  "version": "1.0.1",
+  "description": "Simple database with dynamic saving.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "datory"
+  ],
+  "author": "faon",
+  "license": "MIT",
+  "types": "./lib/index.d.ts"
+}
